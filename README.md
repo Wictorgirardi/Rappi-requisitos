@@ -1,6 +1,6 @@
 # Requisitos Rappi
 
-![logo](./imagens/rich-picture.jpg)
+![logo](./docs/imagens/rappi.png)
 
 ## Projeto
 

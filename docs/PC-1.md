@@ -14,3 +14,19 @@ Assim, o Grupo 10 fez uma Rich Picture geral do processo principal da aplicaçã
 ![](https://i.imgur.com/iJg5KCk.jpg)
 
 </p>
+
+## Planejamento para a Disciplina
+
+29/08 - Definição e Planejamento do Projeto, RichPicture
+
+19/09 - Elicitação–Técnicas e Priorização
+
+1/10 - Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementa
+
+17/10 - Modelagem de Requisitos -Ágil (Histórias de Usuário, Backlogs, NFR Framework)
+
+31/10 - Análisede Requisitos: Verificação eValidação
+
+14/11 - Pós-Rastreabilidade -Gerência II
+
+26/11 - Apresentação dos Trabalhos Finais

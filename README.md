@@ -26,6 +26,7 @@
             </div>
           </div>
     </div>
+    <br/>
     <div class="col-sm container-img">
       <img src="./assets/imgs/people/wictor.jpg" alt="..." class="img-thumbnail image">
         <div class="middle">
@@ -45,6 +46,7 @@
         </div>
     </div>
   </div>
+  <br/>
   <div class="row">
     <div class="col-sm container-img">
         <img src="./assets/imgs/people/joao.jpg" alt="..." class="img-thumbnail image">

@@ -1,6 +1,6 @@
 # Projeto
 
-<p align="justify">Esse repositório será destinado à matéria Requisitos de Software da Faculdade do Gama(FGA), Universidade de Brasília(UnB) e tem como finalidade o estudo dos requisitos da aplicação Rappi.</p>
+<p align="justify">Esse teste repositório será destinado à matéria Requisitos de Software da Faculdade do Gama(FGA), Universidade de Brasília(UnB) e tem como finalidade o estudo dos requisitos da aplicação Rappi.</p>
 
 ## A aplicação
 

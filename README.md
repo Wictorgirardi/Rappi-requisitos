@@ -11,10 +11,10 @@
 <div class="container">
   <div class="row">
     <div class="col-sm container-img">
-        <img src="./assets/imgs/people/andre.jpg" alt="..." class="img-thumbnail image">
+        <img src="./assets/imgs/people/wictor.jpg" alt="..." class="img-thumbnail image">
             <div class="middle">
               <div class="text">
-                André Freitas 17/0056155
+                Wictor Girardi 17/0047326
               </div>
             </div>
     </div>
@@ -26,41 +26,37 @@
             </div>
           </div>
     </div>
-    <br/>
+  <br />
+  <div class="row">
     <div class="col-sm container-img">
-      <img src="./assets/imgs/people/wictor.jpg" alt="..." class="img-thumbnail image">
+        <img src="./assets/imgs/people/andre.jpg" alt="..." class="img-thumbnail image">
         <div class="middle">
           <div class="text">
-            Wictor Girardi 17/0047326
+            André Freitas 17/0056155
           </div>
         </div>
     </div>
-  </div>
-  <div class="row">
+    <div class="col-sm container-img">
+      <img src="./assets/imgs/people/joao.jpg" alt="..." class="img-thumbnail image">    
+        <div class="middle">
+            <div class="text">
+             João de Assis 17/0036634
+            </div>
+        </div>
+    </div>
+    <br />
+   <div class="row">
     <div class="col-sm container-img">
         <img src="./assets/imgs/people/gustavo.jpg" alt="..." class="img-thumbnail image">
         <div class="middle">
           <div class="text">
-            Gustavo Veloso 17/0065251 
+            Gustavo Veloso  17/0065251
           </div>
         </div>
     </div>
-  </div>
-  <br/>
-  <div class="row">
     <div class="col-sm container-img">
-        <img src="./assets/imgs/people/joao.jpg" alt="..." class="img-thumbnail image">
-        <div class="middle">
-          <div class="text">
-            João de Assis 17/0036634
-          </div>
-        </div>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm container-img">
-        <img src="./assets/imgs/people/daniel.jpg" alt="..." class="img-thumbnail image">
-        <div class="middle">
+      <img src="./assets/imgs/people/daniel.jpg" alt="..." class="img-thumbnail image">
+      <div class="middle">
           <div class="text">
             Daniel Ashton 19/0127708
           </div>
